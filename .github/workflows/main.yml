@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  ECR_REGISTRY: 905418067656.dkr.ecr.us-west-1.amazonaws.com/hello-world
+  ECR_REGISTRY: 905418067656.dkr.ecr.us-west-2.amazonaws.com/hello-world
 
 jobs:
   deploy:
